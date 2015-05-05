@@ -73,3 +73,102 @@ a:hover {
 	 text-decoration: underline;
 } 
 
+
+
+
+
+/* ----------------------------------------------------------------------------------------------
+    HEADER PAGE
+------------------------------------------------------------------------------------------------- */
+
+#wrapper-header {
+	width: 100%;
+	background: #fff;
+}
+
+
+
+/* ----------------------------------------------------------------------------------------------
+    NAVIGATION
+------------------------------------------------------------------------------------------------- */
+
+#main_nav {
+	 margin-top: 40px;
+	 margin-bottom: 20px;
+}
+
+#main_nav ul {
+	 list-style: none;
+	 background: #078dc0;
+	 overflow: hidden;
+}
+
+#main_nav ul li {
+	 float: left;
+}
+
+#main_nav ul li a:link, #main_nav ul li a:visited {
+	 display: block;
+	 padding: 10px 15px;
+	 color: white;
+}
+
+#main_nav ul li a:hover {
+	 text-decoration: none;
+	 background: #3aaad4;
+}
+
+#main_nav ul li ul {
+	 display: none;
+}
+
+#main_nav ul li:hover ul {
+	 display: block;
+	 z-index: 10000;
+	 position: absolute;
+}
+
+#main_nav ul li ul li {
+	 float: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
